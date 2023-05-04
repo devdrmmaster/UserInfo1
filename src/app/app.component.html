@@ -1,0 +1,12 @@
+<div class="outerWrapper">
+    <span class="navItems">
+        <span (click)="userInfo()" style="cursor: pointer;">User Information</span><span>&nbsp;|&nbsp;</span>
+    </span>
+    <span class="navItems">
+        <span>About Us</span> <span>&nbsp;|&nbsp;</span>
+    </span>
+    <span class="navItems">Contact</span>
+    <span style="float: right;" class="navItems">{{transformedDate}}</span>
+</div>
+
+<router-outlet></router-outlet>

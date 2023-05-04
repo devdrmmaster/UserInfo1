@@ -1,0 +1,9 @@
+table, th, td {
+    border: 1px solid black;
+}
+
+.infoHeading {
+    padding: 15px;
+    font-size: 25px;
+    font-weight: 600;
+}
