@@ -27,6 +27,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 #HOW TO RUN THE PROJECT IN LOCAL
-Open the project path in cmd prompt
-Run the CLI command to install npm packages by typing "npm install"
-Then run the command "ng serve" to run the application
+
+1.Open the project path in cmd prompt  
+2.Run the CLI command to install npm packages by typing "npm install"  
+3.Then run the command "ng serve" to run the application
