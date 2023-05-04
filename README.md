@@ -3,6 +3,7 @@
 1.Open the project path in cmd prompt  
 2.Run the CLI command to install npm packages by typing "npm install"  
 3.Then run the command "ng serve" to run the application
+4. Default it will run in this server - "https://localhost:4200"
 
 
 # MyApp
